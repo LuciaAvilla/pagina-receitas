@@ -1,4 +1,4 @@
-# ☕ Página de Receita: Café com Chantilly
+# 🧁 Página de Receita: Cupcake de Café com Chantilly
 
 Este foi o **meu primeiro projeto usando HTML e CSS**.  
 A ideia era simples: montar uma página bonitinha de receita, mas acabei indo além (porque a curiosidade mandou mais que o combinado rs).
