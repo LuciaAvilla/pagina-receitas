@@ -1,0 +1,110 @@
+html,
+body {
+    margin: 0;
+    padding: 0;
+    position: relative;
+}
+
+.container {
+    background-color: #F0E8C2;
+    width: 800px;
+    border: 48px;
+    padding: 24px;
+    border-radius: 24px;
+    position: relative;
+    z-index: 1;
+    margin: 0 auto
+}
+
+.imagem-header {
+    width: 100%;
+    align-self: stretch;
+    border-radius: 16px;
+    object-fit: center;
+
+}
+
+h1 {
+    font-family: 'Alice', serif;
+    font-size: 40px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 140%;
+    color: #291B1A;
+}
+
+p {
+    font-family: 'Alice', serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    margin-top: 0;
+    color: #573A37
+}
+
+.sem-ponto {
+    font-family: 'Alice', serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    list-style: none;
+    padding: 0;
+    color: #573A37
+}
+
+h2 {
+    font-family: 'Alice', serif;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    margin: 0;
+    color: #291B1A;
+}
+
+.modo-preparo {
+    margin-bottom: 16px;
+}
+
+ul {
+    font-family: 'Alice', serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    color: #573A37;
+}
+
+.feito-por {
+    font-family: 'Alice', sans-serif;
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 150%;
+    color: #F0E8C2;
+    position: relative;
+    z-index: 1;
+    margin: 0 auto;
+    text-align: center;
+    margin-top: 28px;
+    margin-bottom: 48px;
+}
+
+footer img {
+    vertical-align: middle;
+}
+
+.bg-image {
+    position: fixed;
+    /* melhor que absolute para ocupar toda a tela */
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: url("imagens/bg.jpg") center/cover no-repeat;
+    filter: blur(12px);
+    z-index: 0;
+
+}
