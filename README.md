@@ -31,7 +31,7 @@ Decidi manter ele aqui no GitHub como um marco desse início — e também como 
 
 ![print da página](/imagens/print-cafe.png)
 
-Uma página simples, limpa e feita com muito carinho, apresentando a receita de **Café com Chantilly** ☕🍦  
+Uma página simples, limpa e feita com muito carinho, apresentando a receita de **Cupcake de Café com Chantilly** ☕🍦  
 (E o melhor: ela funciona direitinho no navegador!)
 
 ---
@@ -40,7 +40,6 @@ Uma página simples, limpa e feita com muito carinho, apresentando a receita de 
 
 - HTML5
 - CSS3
-- Google Fonts (`Alice`)
 
 ---
 
